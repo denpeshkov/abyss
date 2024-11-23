@@ -1,4 +1,7 @@
-# TinkerDB
-TinkerDB is my personal study project - a minimalist database implementation in Go.
-Its purpose is to help me explore and understand the internal workings of a database system.
-This project is purely for learning and experimentation, with no intention of making it production-ready.
+# AbyssDB
+
+[![CI](https://github.com/denpeshkov/abyss/actions/workflows/ci.yml/badge.svg)](https://github.com/denpeshkov/abyss/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/denpeshkov/abyss)](https://goreportcard.com/report/github.com/denpeshkov/abyss)
+[![Go Reference](https://pkg.go.dev/badge/github.com/denpeshkov/abyss.svg)](https://pkg.go.dev/github.com/denpeshkov/abyss)
+
+AbyssDB is a relational database written in pure Go.
